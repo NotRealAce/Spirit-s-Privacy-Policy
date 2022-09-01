@@ -32,7 +32,7 @@
 ## 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following things:
-- Join our [Support Server](https://discord.gg/2JrxEPtszD) on discord
+- Join our [Support Server](https://discord.gg/uccjvEuz3f) on discord
 
 ## 6. How can we delete our entire data?
 
